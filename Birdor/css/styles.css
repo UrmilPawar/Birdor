@@ -1,0 +1,42 @@
+body{
+    background-color: #F6F1E9;
+}
+/* ---------navbar ------------------------*/
+.topnav{
+    margin-top: 20px;
+    margin:0px 20px;
+}
+.navbar-brand{
+    font-family:"Segoe UI";
+    /* font-family: "Ubuntu"; */
+    font-size: 2.5rem;
+    color: #0000FF;
+}
+.nav-link{
+    color: #0000FF;
+}
+
+/* --------------------- columns ---------------*/
+.head1{
+    font-family:"Segoe UI";
+    /* font-family: "Montserrat"; */
+    font-size: 56px;
+    line-height: 1.5;
+    font-weight: 700;
+    line-height:  67.2px;
+}
+.bird{
+    height:72%;
+    
+}
+.r1{
+    padding-left:100px;
+}
+
+
+/* --------------------container------------------- */
+.container-fluid{
+    padding: 3% 17%;
+    margin-top:80px;
+    margin-left: 20px;;
+}
