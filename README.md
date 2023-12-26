@@ -3,4 +3,4 @@
 - Various Bootstrap components like Buttons, Navbar , container were used. 
 
 # Following are the images
-![img](/images/img.png)
+![img](img.png)
